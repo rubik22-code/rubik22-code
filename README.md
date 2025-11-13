@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 📚 BSc Computer Science (First Class) @ University of Southampton
 
 * 🛡️ Security Operations & DevSecOps @ Esure Group
-* 💻 Backend & API Developer @ Nusmark
-* 🏦 Onboarding & Acquisitions Team Specialist @ Starling Bank
+* 🏦 Onboarding & Acquisitions Team Member @ Starling Bank
 * 🚀 Founder & Technical Operations Lead @ House of Veins
 
 🔐 Cybersecurity Engineer | 🏆 CompTIA Security+ Certified | 🎯 Top 1% TryHackMe
