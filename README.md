@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 BSc Computer Science (First Class) @ University of Southampton
+📍 SOC Analyst protecting UK critical national infrastructure at the UK Civil Aviation Authority, delivering L1/L2 incident response, threat hunting, and automation across a hybrid, cloud estate.
 
-* 🛡️ Security Operations & DevSecOps @ Esure Group
-* 🏦 Onboarding & Acquisitions Team Member @ Starling Bank
-* 🚀 Founder & Technical Operations Lead @ House of Veins
+🔭 I investigate complex attacks using a modern SOAR and SIEM stack, engineer query-based detections, and build Python-driven playbooks that cut false positives and accelerate response.
 
-🔐 Cybersecurity Engineer | 🏆 CompTIA Security+ Certified | 🎯 Top 1% TryHackMe
+🛡️ Previously AWS-focused DevSecOps Engineer at Esure Group, where I built Terraform-based cloud infrastructure, Python/FastAPI security integrations, and worked with Wiz, Rapid7, CrowdStrike, and Mimecast to improve cloud and endpoint security posture.
 
-💼 Specialising in SecOps, DevSecOps, and penetration testing. Building secure systems with Python, cloud infrastructure (AWS, Azure, GCP), and modern security tooling.
+🎯 Ranked top 1% on TryHackMe, regularly playing CTFs and applying structured penetration testing workflows to sharpen my adversary mindset and inform detection logic and threat hunts.
+
+🎓 BSc Computer Science (First Class) @ University of Southampton – dissertation on collaborative access control for people with mild dementia, published at ACM CPSIoTSec 2025.
+
+💼 I specialise in SOC operations, threat hunting, DevSecOps, and security automation across multi-cloud environments, and I enjoy mentoring junior analysts, tuning detections, and continuously improving playbooks and SOC processes.
+
+✅ CompTIA Security+ | SC-200 (in progress) | SecAI+ (in progress)
 
 🌐 Personal Website -> patrickjfremovkustov.com
