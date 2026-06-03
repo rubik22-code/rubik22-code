@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🎯 Ranked top 1% on TryHackMe, regularly playing CTFs and applying structured penetration testing workflows to sharpen my adversary mindset and inform detection logic and threat hunts.
 
-🎓 BSc Computer Science (First Class) @ University of Southampton – dissertation on collaborative access control for people with mild dementia, published at ACM CPSIoTSec 2025.
+🎓 BSc Computer Science (First Class) @ University of Southampton; my dissertation was creating a collaborative access control for people with mild dementia, published at ACM CPSIoTSec 2025.
 
 💼 I specialise in SOC operations, threat hunting, DevSecOps, and security automation across multi-cloud environments, and I enjoy mentoring junior analysts, tuning detections, and continuously improving playbooks and SOC processes.
 
