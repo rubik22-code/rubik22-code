@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📍 SOC Analyst protecting UK critical national infrastructure at the UK Civil Aviation Authority, delivering L1/L2 incident response, threat hunting, and automation across a hybrid, cloud estate.
+📍 Information Security Consultant at the UK Civil Aviation Authority, helping deliver secure-by-design assurance across projects, BAU change, and risk-based decision-making in a regulated public-sector environment.
 
-🔭 I investigate complex attacks using a modern SOAR and SIEM stack, engineer query-based detections, and build Python-driven playbooks that cut false positives and accelerate response.
+🔭 I work across architecture, risk, and delivery teams to translate secure design principles into practical controls and assurance activities, aligned to CAF, ISO 27001, NIST 800-53, and related frameworks.
 
-🛡️ Previously AWS-focused DevSecOps Engineer at Esure Group, where I built Terraform-based cloud infrastructure, Python/FastAPI security integrations, and worked with Wiz, Rapid7, CrowdStrike, and Mimecast to improve cloud and endpoint security posture.
+🛡️ Previously a SOC Analyst at the CAA, where I had hands-on experience spaning incident response, threat hunting, threat intelligence, cloud/application security, and automation.
 
 🎯 Ranked top 1% on TryHackMe, regularly playing CTFs and applying structured penetration testing workflows to sharpen my adversary mindset and inform detection logic and threat hunts.
 
 🎓 BSc Computer Science (First Class) @ University of Southampton; my dissertation was creating a collaborative access control for people with mild dementia, published at ACM CPSIoTSec 2025.
 
-💼 I specialise in SOC operations, threat hunting, DevSecOps, and security automation across multi-cloud environments, and I enjoy mentoring junior analysts, tuning detections, and continuously improving playbooks and SOC processes.
+💼 I specialise in SOC operations, DevSecOps, and security automation across multi-cloud environments, and I enjoy mentoring, speaking, and continuously improving security processes.
 
-✅ CompTIA Security+ | SC-200 (in progress) | SecAI+ (in progress)
+✅ CompTIA Security+ | SOC Analyst Pathway (LetsDefend) | SecAI+ (in progress)
 
 🌐 Personal Website -> patrickjfremovkustov.com
