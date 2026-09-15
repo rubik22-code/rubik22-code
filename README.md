@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🎓 BSc Computer Science (First Class) @ University of Southampton; my dissertation was creating a collaborative access control for people with mild dementia, published at ACM CPSIoTSec 2025.
 
-💼 I specialise in SOC operations, DevSecOps, and security automation across multi-cloud environments, and I enjoy mentoring, speaking, and continuously improving security processes.
+💼 I specialise in SOC operations, DevSecOps, and security automation across multi-cloud environments, where I enjoy mentoring, speaking, and continuously improving security processes.
 
 ✅ CompTIA Security+ | SOC Analyst Pathway (LetsDefend) | SecAI+ (in progress)
 
